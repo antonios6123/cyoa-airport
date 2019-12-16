@@ -1,7 +1,7 @@
 
 
 
-[Sleep](sleep.md)
+## [Sleep](sleep.md)
 
 ---
-[Wake Up](wake-up.md)
+## [Wake Up](wake-up.md)

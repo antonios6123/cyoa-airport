@@ -1,5 +1,5 @@
-[Go To Lyon](lyon.md)
+# [Go To Lyon](lyon.md)
 
-[Go To Paris](paris.md)
+# [Go To Paris](paris.md)
 
-[Start Over](home.md)
+# [Start Over](home.md)
