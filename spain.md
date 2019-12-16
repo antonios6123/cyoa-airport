@@ -1,4 +1,3 @@
-## [Go To A Soccer Game](soccer-game.md)
+## [Go To Barcelona](barcelona.md)
 
-## [Go To A Night Club](night-club.md)
-
+## [Go To Madrid](madrid.md)
