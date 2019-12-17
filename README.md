@@ -1,6 +1,6 @@
 ## [Click Here To Begin!](home.md)
  
-### The purpose of this project is to see what your decision making is after you mysteriously wake up in a random airport you've never been in before.
+### The purpose of this project is to use your knowledge of git, github and markdown syntax to create a file path that all links together to make a cyoa project.
 
 [Antonio Silva](https://github.com/antonios6123)
 
